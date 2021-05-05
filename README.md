@@ -35,8 +35,7 @@
 <br />
 
 ---
-
-!FerdyDiatmika GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdydiatmika&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdydiatmika&show_icons=true&theme=radical)
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
