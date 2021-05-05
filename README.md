@@ -1,7 +1,7 @@
 ### Hi there, I'm Ferdy Diatmika - aka [aKira][website] 👋
 
-[![Website](https://img.shields.io/website?label=ferdydiatmika.github&style=for-the-badge&url=https%3A%2F%2ferdydiatmika.github.io)](https://ferdydiatmika.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/aKira?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ferdydiatmikaa)
+[![Website](https://img.shields.io/website?label=ferdydiatmika.github)](https://ferdydiatmika.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/aKira?color=1DA1F2)](https://twitter.com/ferdydiatmikaa)
 
 ## I'm a Student!!
 
