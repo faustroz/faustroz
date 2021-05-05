@@ -36,12 +36,7 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  (https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  <img align="left" alt="aKira's GitHub Stats" src="https://github-readme-stats.ferdydiatmika.vercel.app/api?username=FerdyDiatmika&show_icons=true&hide_border=true" />
-
-</details>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
