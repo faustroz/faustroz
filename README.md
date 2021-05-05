@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=ferdydiatmika.github)](https://ferdydiatmika.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/aKira?color=1DA1F2)](https://twitter.com/ferdydiatmikaa)
+https://img.shields.io/discord/server/aKira/aKira?color=1DA1F2)
 
 ## I'm a Student!!
 
