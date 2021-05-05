@@ -9,7 +9,7 @@
 <a href="https://discord.gg/KsNnDbnWxK">
   <img align="left" alt="aKira's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
-
+<br />
 ## I'm a Student!!
 
 - 🔭 Project mantained : [Become A VS Code SuperHero!][course]!
