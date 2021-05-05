@@ -5,7 +5,7 @@
 
 ## I'm a Student!!
 
-- 🔭 Project mantained : [Company Profile!][course]!
+- 🔭 Project mantained : [Company Profile!][course]
 - 🌱 I’m currently learning PHP, C++
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 : Be an Alpha!
