@@ -38,7 +38,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  (https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <img align="left" alt="aKira's GitHub Stats" src="https://github-readme-stats.ferdydiatmika.vercel.app/api?username=FerdyDiatmika&show_icons=true&hide_border=true" />
 
 </details>
