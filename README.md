@@ -1,4 +1,4 @@
-### Hi there, I'm Ferdy Diatmika - aka [aKira][website] 👋
+### Hi there, I'm Ferdy Diatmika [ferdydiatmikaa][website] 👋
 
 [![Website](https://img.shields.io/website?label=ferdydiatmika.github&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ferdydiatmika.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ferdydiatmikaa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%ferdydiatmikaa&screen_name=ferdydiatmikaa)
@@ -7,9 +7,9 @@
 
 - 🔭 Project mantained : [Company Profile!][course]
 - 🌱 I’m currently learning PHP, C++
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2022 : Be an Alpha!
-- ⚡ Fun fact: I love to play Basketball
+- 👯 I’m looking to collaborate with other student
+- 🥅 2022 : Be an Better Person!
+- ⚡ Fun fact: I love to play Boxing, and Basketball
 
 ### Connect with me:
 
