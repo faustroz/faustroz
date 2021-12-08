@@ -39,7 +39,7 @@
 
 <!-- REAMDE_STATS -->
 
-[![aKira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdydiatmika)](https://github.com/ferdydiatmika/github-readme-stats)
+[![Ferdy Diatmika GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdydiatmika)](https://github.com/ferdydiatmika/github-readme-stats)
 
 <!-- END README -->
 
