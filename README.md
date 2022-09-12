@@ -5,8 +5,8 @@
 
 ## I'm a Student!!
 
-- 🔭 Project mantained : [Company Profile!][course]
-- 🌱 I’m currently learning PHP, C++
+- 🔭 Project maintained : [Company Profile!][course]
+- 🌱 I’m currently learning cyber security 
 - 👯 I’m looking to collaborate with other student
 - 🥅 2022 : Be an Better Person!
 - ⚡ Fun fact: I love to play Boxing, and Basketball
@@ -44,7 +44,7 @@
 [website]: https://ferdydiatmika.github.io
 [twitter]: https://twitter.com/ferdydiatmikaa
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/ferdysann_
+[instagram]: https://instagram.com/ferdydiatmikaa
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
