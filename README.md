@@ -5,7 +5,7 @@
 
 ## I'm a Student!!
 
-- 🔭 Project maintained : [Company Profile!][course]
+- 🔭 Project maintained : Nothing
 - 🌱 I’m currently learning cyber security 
 - 👯 I’m looking to collaborate with other student
 - 🥅 2022 : Be an Better Person!
