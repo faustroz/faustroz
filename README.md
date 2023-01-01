@@ -1,6 +1,6 @@
-## Hi there, I'm Ferdy Diatmika 👋
+# Hi there, I'm Ferdy Diatmika 👋
 
-# I'm a Student, and A Programmer !
+## I'm a Student, and A Programmer !
 
 - 🔭 Project maintained : Updating [Website][website]
 - 👑 2023 Goals : Dream Physique, Good Mindset
