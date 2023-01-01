@@ -2,13 +2,13 @@
 
 <h3>👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently project maintained [Website][website]
+- 🔭 &nbsp; Currently project maintained [website]
 - 👑 &nbsp; 2023 Goals : Dream Physique, Good Mindset
 - 🗿 &nbsp; Fun fact: I love to play Boxing, and Basketball
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; Python | Dart | Java | C++ 
+- 💻 &nbsp; Python | C++ | HTML | CSS | Lua
 <br>
 <br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
