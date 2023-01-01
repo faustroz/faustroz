@@ -8,7 +8,7 @@
 
 [<img align="left" alt="aKira.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="aKira | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="aKira | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="aKira | Instagram" width="22px" src="<box-icon type='logo' name='instagram'></box-icon>" />][instagram]
 [<box-icon type='logo' width="22px" name='instagram'></box-icon>][instagram]
 
 <br />
@@ -36,3 +36,4 @@
 [twitter]: https://twitter.com/ferdydiatmikaa
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/ferdydiatmikaa
+<script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></
