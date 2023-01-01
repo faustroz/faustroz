@@ -1,8 +1,8 @@
 <h1>Hi, I'm Ferdy Diatmika 🙍👋</h1>
 
-- 🔭 Project maintained : Updating [Website][website]
+- 🔭 Currently project maintained [Website][website]
 - 👑 2023 Goals : Dream Physique, Good Mindset
-- 🏆 Fun fact: I love to play Boxing, and Basketball
+-  Fun fact: I love to play Boxing, and Basketball
 
 ### Find me around the web 🌍 :
 
@@ -31,6 +31,10 @@
 <!-- REAMDE_STATS -->
 
 ![Ferdy Diatmika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdydiatmika&show_icons=true&theme=tokyonight)
+
+</br> 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdydiatmika&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/FerdyDiatmika/github-readme-stats)
 
 <!-- END README -->
 
