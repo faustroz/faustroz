@@ -26,7 +26,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdydiatmika&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/FerdyDiatmika/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
-![website](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)
+[![website](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)]
 
 [<img align="center" alt="aKira" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="center" alt="aKira" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
