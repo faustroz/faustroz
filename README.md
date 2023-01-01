@@ -6,12 +6,12 @@
 
 ### Find me around the web 🌍 :
 
-[<img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="22px"/></a>]  
-
+<p align="center">
 [<img align="left" alt="aKira.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="aKira | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="aKira | Instagram" width="22px" src="<box-icon type='logo' name='instagram'></box-icon>" />][instagram]
 [<box-icon type='logo' width="22px" name='instagram'></box-icon>][instagram]
+</p>
 
 <br />
 
