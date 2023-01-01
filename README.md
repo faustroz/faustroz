@@ -1,9 +1,9 @@
 ### Hi there, I'm Ferdy Diatmika 👋
 
-## I'm a Student, and A Programmer, !!
+## I'm a Student, and A Programmer !
 
-- 🔭 Project maintained : Updating [Website] [website]
-- 🥅 2023 : Be an Better Person!
+- 🔭 Project maintained : Updating [Website][website]
+- 👑 2023 Goals : Dream Physique, Good Mindset
 - 🏆 Fun fact: I love to play Boxing, and Basketball
 
 ### Connect with me:
