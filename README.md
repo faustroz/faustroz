@@ -1,4 +1,4 @@
-# Hi there, I'm Ferdy Diatmika 👋
+# Hi, I'm Ferdy Diatmika A Student, and A Programmer 
 
 ## I'm a Student, and A Programmer !
 
