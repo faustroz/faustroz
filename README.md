@@ -1,15 +1,10 @@
-### Hi there, I'm Ferdy Diatmika [Website!][website] 👋
+### Hi there, I'm Ferdy Diatmika 👋
 
-[![Website](https://img.shields.io/website?label=ferdydiatmika.github&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ferdydiatmika.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ferdydiatmikaa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%ferdydiatmikaa&screen_name=ferdydiatmikaa)
+## I'm a Student, and A Programmer, !!
 
-## I'm a Student!!
-
-- 🔭 Project maintained : Nothing
-- 🌱 I’m currently learning cyber security 
-- 👯 I’m looking to collaborate with other student
-- 🥅 2022 : Be an Better Person!
-- ⚡ Fun fact: I love to play Boxing, and Basketball
+- 🔭 Project maintained : Updating [Website] [website]
+- 🥅 2023 : Be an Better Person!
+- 🏆 Fun fact: I love to play Boxing, and Basketball
 
 ### Connect with me:
 
