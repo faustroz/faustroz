@@ -4,12 +4,6 @@
 - 👑 2023 Goals : Dream Physique, Good Mindset
 -  Fun fact: I love to play Boxing, and Basketball
 
-<h3>Find me around the web 🌍 :</h3>
-
-[<img align="center" alt="aKira.com" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="center" alt="aKira | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="center" alt="aKira | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <h3>Languages and Tools :</h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -28,6 +22,12 @@
 </br> 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdydiatmika&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/FerdyDiatmika/github-readme-stats)
+
+<h3>Find me around the web 🌍 :</h3>
+
+[<img align="center" alt="aKira.com" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="aKira | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="center" alt="aKira | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <!-- END README -->
 
