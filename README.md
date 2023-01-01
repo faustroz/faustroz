@@ -32,7 +32,7 @@
 
 <!-- REAMDE_STATS -->
 
-[![Ferdy Diatmika GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdydiatmika)](https://github.com/ferdydiatmika/github-readme-stats)
+![Ferdy Diatmika's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustro&show_icons=true&theme=tokyonight)
 
 <!-- END README -->
 
