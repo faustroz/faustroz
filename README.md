@@ -1,6 +1,6 @@
 <h2>Hi, I'm Ferdy Diatmika 🙍👋</h2>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"</img>
 
 <h3>👨🏻‍💻 &nbsp; About Me </h3>
 
