@@ -7,7 +7,7 @@
 <h3>Find me around the web 🌍 :</h3>
 
 <p align="center">
-&nbsp; <a href="www.instagram.com/ferdydiatmikaa"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px"/></a>
+&nbsp; <a href="www.instagram.com/ferdydiatmikaa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="50px"/></a>
 </p>
 
 [<img align="center" alt="aKira.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
