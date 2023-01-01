@@ -1,6 +1,6 @@
 <h2>Hi, I'm Ferdy Diatmika 🙍👋</h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3>👨🏻‍💻 &nbsp; About Me </h3>
 
 - 🔭 &nbsp; Currently project maintained [Website][website]
 - 👑 &nbsp; 2023 Goals : Dream Physique, Good Mindset
