@@ -1,8 +1,10 @@
 <h2>Hi, I'm Ferdy Diatmika 🙍👋</h2>
 
-- 🔭 Currently project maintained [Website][website]
-- 👑 2023 Goals : Dream Physique, Good Mindset
--  Fun fact: I love to play Boxing, and Basketball
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; Currently project maintained [Website][website]
+- 👑 &nbsp; 2023 Goals : Dream Physique, Good Mindset
+- 🗿 &nbsp; Fun fact: I love to play Boxing, and Basketball
 
 <h3>Languages and Tools :</h3>
 
