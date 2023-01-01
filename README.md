@@ -6,7 +6,7 @@
 
 ### Find me around the web 🌍 :
 
-&nbsp; [<img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="22px"/></a>]  
+[<img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="22px"/></a>]  
 
 [<img align="left" alt="aKira.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="aKira | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
