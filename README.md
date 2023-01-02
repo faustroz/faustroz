@@ -31,9 +31,9 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-&nbsp; <a href="ferdydiatmika.github.io"><img align="center" alt="aKira" width="50px" src="https://img.icons8.com/plasticine/100/000000/globe.png" /></a>
-&nbsp; <a href="https://instagram.com/ferdydiatmikaa"><img align="center" alt="aKira" width="50px" src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" /></a>
-&nbsp; <a href="https://instagram.com/ferdydiatmikaa"><img align="center" alt="aKira" width="50px" src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" /></a>
+&nbsp; <a align="center" href="ferdydiatmika.github.io"><img align="center" alt="aKira" width="50px" src="https://img.icons8.com/plasticine/100/000000/globe.png" /></a>
+&nbsp; <a align="center" href="https://instagram.com/ferdydiatmikaa"><img align="center" alt="aKira" width="50px" src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" /></a>
+&nbsp; <a align="center" href="https://instagram.com/ferdydiatmikaa"><img align="center" alt="aKira" width="50px" src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" /></a>
 
 <!-- END README -->
 
