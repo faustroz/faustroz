@@ -14,7 +14,7 @@
 
 <!-- REAMDE_STATS -->
 
-### ⛏️ Statistics
+## ⛏️ Statistics
 
 ![Ferdy Diatmika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdydiatmika&show_icons=true&theme=tokyonight)
 
