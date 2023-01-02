@@ -29,9 +29,9 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-[<img item-align="center" alt="aKira" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img item-align="center" alt="aKira" width="50px" src="https://img.icons8.com/plasticine/100/000000/globe.png" />][website]
 [<img alt="aKira" width="50px" src="https://img.icons8.com/plasticine/100/000000/gmail.png" />][youtube]
-[<img alt="aKira" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img alt="aKira" width="50px" src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" />][instagram]
 
 <!-- END README -->
 
