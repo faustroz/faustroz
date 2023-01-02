@@ -30,8 +30,8 @@
 
 <div align="center">
 &nbsp; <a href="ferdydiatmika.github.io"><img text-align="center" alt="aKira" width="45px" src="https://img.icons8.com/dusk/80/globe-earth.png" /></a>
-&nbsp; <a href=""><img text-align="center" alt="aKira" width="52px" src="https://img.icons8.com/color/100/youtube-play.png" /></a>
-&nbsp; <a href="https://instagram.com/ferdydiatmikaa"><img text-align="center" alt="aKira" width="52px" src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" /></a>
+&nbsp; <a href=""><img text-align="center" alt="aKira" width="55px" src="https://img.icons8.com/color/100/youtube-play.png" /></a>
+&nbsp; <a href="https://instagram.com/ferdydiatmikaa"><img text-align="center" alt="aKira" width="55px" src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" /></a>
 &nbsp; <a href=""><img text-align="center" alt="aKira" width="50px" src="https://img.icons8.com/dusk/512/discord-logo.png" /></a>
 </div>
 
