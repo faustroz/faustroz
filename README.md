@@ -8,11 +8,10 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; Python | C++ 
-
+- 💻&nbsp; Python | C++ 
 - 🌐&nbsp; HTML | CSS | JavaScript | Bootstrap
 - 🛢&nbsp; MySQL | HeidiSQL | XAMPP
-- 🔧&nbsp; PyCharm | Visual Studio code | Git
+- 🔧&nbsp; PyCharm | Visual Studio Code | Git
 - 🖥️&nbsp; Photoshop
 
 ---
