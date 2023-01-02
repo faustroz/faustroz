@@ -10,8 +10,6 @@
 
 - 💻 &nbsp; Python | C++ | HTML | CSS | Lua
 
-<br />
-
 ---
 
 <!-- REAMDE_STATS -->
