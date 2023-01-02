@@ -10,9 +10,6 @@
 
 - 💻 &nbsp; Python | C++ | HTML | CSS | Lua &nbsp;
 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-
 ---
 
 <!-- REAMDE_STATS -->
@@ -29,9 +26,11 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
+<div align="center">
 &nbsp; <a href="ferdydiatmika.github.io"><img text-align="center" alt="aKira" width="50px" src="https://img.icons8.com/dusk/80/globe-earth.png" /></a>
 &nbsp; <a href=""><img text-align="center" alt="aKira" width="50px" src="https://img.icons8.com/color/100/youtube-play.png" /></a>
 &nbsp; <a href="https://instagram.com/ferdydiatmikaa"><img text-align="center" alt="aKira" width="50px" src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" /></a>
+</div>
 
 <!-- END README -->
 
