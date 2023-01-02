@@ -24,7 +24,7 @@
 
 ---
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h2> 🤝🏻 Connect with Me </h2>
 
 <div align="center">
 &nbsp; <a href="ferdydiatmika.github.io"><img text-align="center" alt="aKira" width="45px" src="https://img.icons8.com/dusk/80/globe-earth.png" /></a>
