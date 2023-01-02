@@ -6,7 +6,7 @@
 - 👑 &nbsp; 2023 Goals : Dream Physique, Good Mindset
 - 🗿 &nbsp; Fun fact: I love to play Boxing, and Basketball
 
---
+----
 
 ### 🛠 Tech Stack
 
