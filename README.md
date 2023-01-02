@@ -29,11 +29,9 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<div align="center">
 &nbsp; <a href="ferdydiatmika.github.io"><img alt="aKira" width="50px" src="https://img.icons8.com/plasticine/100/000000/globe.png" /></a>
 &nbsp; <a href="https://instagram.com/ferdydiatmikaa"><img alt="aKira" width="50px" src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" /></a>
 &nbsp; <a href="https://instagram.com/ferdydiatmikaa"><img alt="aKira" width="50px" src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" /></a>
-</div>
 
 <!-- END README -->
 
