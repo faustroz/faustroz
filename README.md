@@ -9,10 +9,11 @@
 ### 🛠 Tech Stack
 
 - 💻 &nbsp; Python | C++ 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
-- 🛢 &nbsp; MySQL | HeidiSQL | XAMPP
-- 🔧 &nbsp; PyCharm | Visual Studio code | Git
-- 🖥️ &nbsp; Photoshop
+
+- 🌐&nbsp; HTML | CSS | JavaScript | Bootstrap
+- 🛢&nbsp; MySQL | HeidiSQL | XAMPP
+- 🔧&nbsp; PyCharm | Visual Studio code | Git
+- 🖥️&nbsp; Photoshop
 
 ---
 
