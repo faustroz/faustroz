@@ -9,7 +9,7 @@
 ### 🛠 Tech Stack
 
 - 💻 &nbsp; Python | C++ 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; MySQL | HeidiSQL | XAMPP
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 - 🖥️ &nbsp; Photoshop
