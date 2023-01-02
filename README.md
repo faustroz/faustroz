@@ -22,11 +22,11 @@
 
 <!-- REAMDE_STATS -->
 
-![Ferdy Diatmika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdydiatmika&show_icons=true&theme=dark)
+![Ferdy Diatmika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdydiatmika&show_icons=true&theme=tokyonight)
 
 </br> 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdydiatmika&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/FerdyDiatmika/github-readme-stas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdydiatmika&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/FerdyDiatmika/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
