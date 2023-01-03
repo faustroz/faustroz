@@ -29,7 +29,7 @@
 <h2> 🤝🏻 Connect with Me </h2>
 
 <div align="center">
-&nbsp; <a href="ferdydiatmika.github.io"><img text-align="center" alt="aKira" width="45px" src="https://img.icons8.com/dusk/80/globe-earth.png" /></a>
+&nbsp; <a href="https://ferdydiatmika.github.io/"><img text-align="center" alt="aKira" width="45px" src="https://img.icons8.com/dusk/80/globe-earth.png" /></a>
 &nbsp; <a href="https://youtube.com"><img text-align="center" alt="aKira" width="55px" src="https://img.icons8.com/color/100/youtube-play.png" /></a>
 &nbsp; <a href="https://instagram.com/ferdydiatmikaa"><img text-align="center" alt="aKira" width="55px" src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" /></a>
 &nbsp; <a href="https://discord.gg/5EYvXcfKA9"><img text-align="center" alt="aKira" width="50px" src="https://img.icons8.com/dusk/512/discord-logo.png" /></a>
