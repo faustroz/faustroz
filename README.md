@@ -7,7 +7,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdydiatmika&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/FerdyDiatmika/github-readme-stats)
 
-<h2> 🤝🏻 Connect with Me </h2>
+<h2> 🤝🏻 Connect with me </h2>
 
 <div align="center">
 &nbsp; <a href="https://ferdydiatmika.github.io/"><img text-align="center" alt="aKira" width="45px" src="https://img.icons8.com/dusk/80/globe-earth.png" /></a>
