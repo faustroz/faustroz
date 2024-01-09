@@ -13,7 +13,7 @@
 
 <div align="center">
 &nbsp; <a href="https://ferdydiatmika.github.io/"><img text-align="center" alt="aKira" width="45px" src="https://img.icons8.com/dusk/80/globe-earth.png" /></a>
-&nbsp; <a href="https://youtube.com"><img text-align="center" alt="aKira" width="55px" src="https://img.icons8.com/color/100/youtube-play.png" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/made-ferdy-diatmika-47a5362a6/"><img text-align="center" alt="aKira" width="55px" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" /></a>
 &nbsp; <a href="https://instagram.com/ferdydiatmikaa"><img text-align="center" alt="aKira" width="55px" src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" /></a>
 &nbsp; <a href="https://discord.gg/5EYvXcfKA9"><img text-align="center" alt="aKira" width="50px" src="https://img.icons8.com/dusk/512/discord-logo.png" /></a>
 </div>
@@ -22,5 +22,5 @@
 
 [website]: https://ferdydiatmika.github.io
 [twitter]: https://twitter.com/ferdydiatmikaa
-[youtube]: https://youtube.com/
+[linkedin]: https://www.linkedin.com/in/made-ferdy-diatmika-47a5362a6/
 [instagram]: https://instagram.com/ferdydiatmikaa
