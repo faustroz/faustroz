@@ -1,8 +1,5 @@
 <h2>Hi, I'm Ferdy Diatmika 👤👋</h2>
 <!-- REAMDE_STATS -->
-
-## 📊 Statistics
-
 ![Ferdy Diatmika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdydiatmika&show_icons=true&theme=tokyonight)
 
 </br> 
