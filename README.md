@@ -10,15 +10,10 @@
 <h2> 🤝🏻 Connect with me </h2>
 
 <div align="center">
-&nbsp; <a href="https://ferdydiatmika.github.io/"><img text-align="center" alt="aKira" width="45px" src="https://img.icons8.com/dusk/80/globe-earth.png" /></a>
-&nbsp; <a href="https://www.linkedin.com/in/made-ferdy-diatmika-47a5362a6/"><img text-align="center" alt="aKira" width="55px" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" /></a>
-&nbsp; <a href="https://instagram.com/ferdydiatmikaa"><img text-align="center" alt="aKira" width="55px" src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" /></a>
-&nbsp; <a href="https://discord.gg/5EYvXcfKA9"><img text-align="center" alt="aKira" width="50px" src="https://img.icons8.com/dusk/512/discord-logo.png" /></a>
+<a href="https://twitter.com/ferdydiatmikaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ferdydiatmikaa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ferdydiatmikaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferdydiatmikaa" height="30" width="40" /></a>
+</p>
 </div>
 
 <!-- END README -->
 
-[website]: https://ferdydiatmika.github.io
-[twitter]: https://twitter.com/ferdydiatmikaa
-[linkedin]: https://www.linkedin.com/in/made-ferdy-diatmika-47a5362a6/
-[instagram]: https://instagram.com/ferdydiatmikaa
