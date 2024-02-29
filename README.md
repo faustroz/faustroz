@@ -1,4 +1,4 @@
-<h2>Hi, I'm Ferdy Diatmika 👤👋</h2>
+# Hi, I'm Ferdy Diatmika 👤👋
 <!-- REAMDE_STATS -->
 
 ## 🌐 Socials:
