@@ -1,20 +1,16 @@
 <h2>Hi, I'm Ferdy Diatmika 👤👋</h2>
 <!-- REAMDE_STATS -->
 
-![Ferdy Diatmika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdydiatmika&show_icons=true&theme=tokyonight)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ferdydiatmikaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ferdydiatmikaa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@faustroo)
 
-</br> 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdydiatmika&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/FerdyDiatmika/github-readme-stats)
+# 💻 Tech Stack:
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=faustroz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=faustroz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2> 🤝🏻 Connect with me </h2>
+---
+[![](https://visitcount.itsvg.in/api?id=faustroz&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<div align="center">
-<a href="https://twitter.com/ferdydiatmikaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ferdydiatmikaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ferdydiatmikaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferdydiatmikaa" height="30" width="40" /></a>
-<a href="https://instagram.com/ferdydiatmikaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferdydiatmikaa" height="30" width="40" /></a>
-</p>
-</div>
-
-<!-- END README -->
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
