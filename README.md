@@ -9,25 +9,13 @@
 🛠 fivem • discord • ui/ux
 💻 lua • js • html/css
 
-### founder
+**founder**
 
-**confluo**
+`confluo` · ai trading
+`clipra` · ai clipping
+`yomu` · manga reader
 
-> ai trading signals for discord.
-
-**clipra**
-
-> ai-powered video clipping.
-
-**yomu**
-
-> modern manga & manhwa reader.
-
----
-
-🌐 **rvzworks**
-
-> building software, tools, and experiences.
+🌐 rvzworks
 
 ---
 
