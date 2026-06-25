@@ -24,4 +24,3 @@
 
 > no hype.  
 > just clean code.
-```
