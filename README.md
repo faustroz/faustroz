@@ -16,7 +16,7 @@
 `clipra` · ai clipping  
 `invopajak` · invoice & tax  
 `portlio` · finance dashboard  
-`yomu` · comic reader  
+`yomu` · comic reader  `r`n`confluo` · ai trading  
 `rvzworks` · fivem & roblox
 
 🌐 https://faustroz.github.io
@@ -25,3 +25,4 @@
 
 > no hype.  
 > just clean code.
+
